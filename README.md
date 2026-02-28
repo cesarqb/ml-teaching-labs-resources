@@ -33,7 +33,6 @@ ml-teaching-labs-resources/
 
 
 Cada carpeta contiene scripts, notebooks, datasets y/o presentaciones utilizadas en sesiones de clase.
-
 ---
 
 ## Tecnologías Utilizadas
