@@ -23,13 +23,14 @@ El objetivo es proporcionar ejemplos prácticos y progresivos que permitan a est
 
 ## Estructura del Repositorio
 
-ml-teaching-labs-resources/
-├── intro-python/
-├── intro-r/
-├── machine-learning-basics/
-├── notebooks/
-├── datasets/
-└── slides/
+├── ml-teaching-labs-resources/  
+│   ├── Machine Learning for dummies/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<- Curso propio de ML para principiantes  
+│   ├── Python for dummies/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<- Curso propio de Python para principiantes  
+│   ├── R for dummies/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<- Curso propio de R para principiantes  
+│   └── Text Mining con R - El Quijote/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<- NLP del libro el Quijote Usando R
+│   └── Mapping-with-leaflet-in-R/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<- Visualización de Mapas usando leaflet en R
+│   └── dynamic-graphics-with-gganimate-in-R/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<- Gráficos dinámicos usando gganimante en R
+│   └── Funciones-de-dibujo-con-Python-y-OpenCV/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<- Funciones para crear dibujos con Python y OpenCV
 
 
 Cada carpeta contiene scripts, notebooks, datasets y/o presentaciones utilizadas en sesiones de clase.
